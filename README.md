@@ -17,7 +17,7 @@
 # Adding cmd to env : nano ~/.zshrc and its content
 alias pod='arch -x86_64 pod' <br/>
 export JAVA_HOME=$(/usr/libexec/java_home) <br/>
-export ANDROID_HOME=/Users/radhakrishna/Library/Android/sdk <br/>
+export ANDROID_HOME=/Users/jithin-till/Library/Android/sdk <br/>
 export PATH=$PATH:$ANDROID_HOME/platform-tools:$ANDROID_HOME/tools:$ANDROID_HOME/bin <br/>
  
  
