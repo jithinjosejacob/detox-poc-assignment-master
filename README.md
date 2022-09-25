@@ -1,5 +1,6 @@
 # Detox-poc-assignment
 
+Minmum Requirement - Apple M1 Pro, Mac OS Monterey(Version 12.4)
  
 - Clone repo
 - Cmd “yarn” to install packages the project
